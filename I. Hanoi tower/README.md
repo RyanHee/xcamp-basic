@@ -1,9 +1,9 @@
 # Time limit：0.2   Memory limit：32M
 # Description：
 
-     The famous Hanoi tower problem:<br>
+  The famous Hanoi tower problem:<br>
 
-     There are three sticks A，B，C. There are N disks on stick A (N>1). The sizes of the disks decrease from bottom to the top. Please move all the disks to stick B according to the following rules.<br>
+  There are three sticks A，B，C. There are N disks on stick A (N>1). The sizes of the disks decrease from bottom to the top. Please move all the disks to stick B according to the following rules.<br>
 
 1. Move only one disk at a time.<br>
 
