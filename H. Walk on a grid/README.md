@@ -1,4 +1,4 @@
-# Time Limit: 1000ms Memory Limit: 524288kB
+# Time Limit: 1s Memory Limit: 512M
 
 # Description:
 For a given grid of size n*m, please find out how many paths that you have to move from the upper left corner to the lower right corner.<br>
