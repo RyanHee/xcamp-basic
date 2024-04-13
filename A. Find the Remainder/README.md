@@ -16,4 +16,4 @@ The remainder of a/b.
 2<br>
 
 # Sample Output
-1
+1<br>
