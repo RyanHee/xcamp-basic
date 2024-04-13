@@ -1,4 +1,5 @@
-Description£∫
+Time limitÔºö1s   Memory limitÔºö512M
+DescriptionÔºö
 
 There are some logs in timber factory, which should be cut into pieces of the same length (there may be some remaining). The number of pieces has been decided. We want the length of those pieces to be as long as possible. Find out the maximum length (cm, positive integer).  
 
@@ -6,23 +7,23 @@ For example, there are two logs with lengths of 11 and 21. You are required to c
 
  
 
-Input£∫
+InputÔºö
 
-The first line contains two integers N and K(1 °‹ N °‹ 100000£¨1 °‹ K °‹ 100000000). N is the number of logs. K is the number of wood pieces.
+The first line contains two integers N and K(1 ‚â§ N ‚â§ 100000Ôºå1 ‚â§ K ‚â§ 100000000). N is the number of logs. K is the number of wood pieces.
 
 The next N lines each contains a positive integer (1 to 100000000)--- the length of a log.
 
-Output£∫
+OutputÔºö
 
-The maximum length they can be cut into. If it's smaller than 1cm£¨print °±0°±.
+The maximum length they can be cut into. If it's smaller than 1cmÔºåprint ‚Äù0‚Äù.
 
-Sample input£∫
+Sample inputÔºö
 
 3 7
 232
 124
 456
 
-Sample output£∫
+Sample outputÔºö
 
 114
