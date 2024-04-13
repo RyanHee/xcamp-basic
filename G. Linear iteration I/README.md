@@ -1,4 +1,4 @@
-# Time Limit: 200ms Memory Limit: 262144kB
+# Time Limit: 0.2s Memory Limit: 256M
 
 # Description
 Given a sequence A0​,A1​,A2​,A3​,......,<br>
