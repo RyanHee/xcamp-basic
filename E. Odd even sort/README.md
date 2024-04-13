@@ -2,7 +2,7 @@
  
 
 # Description
-Given a sequence of 10 integers, reorder them according to the following requirements:<br>  
+Given a sequence of 10 integers, reorder them according to the following requirements:<br>
 
 1. Odd numbers come first and even numbers come last.<br>
 
