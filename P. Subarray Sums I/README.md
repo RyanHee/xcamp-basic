@@ -23,8 +23,8 @@ Print one integer: the required number of subarrays.
  
 
 # Sample Input:
-5 7
-2 4 1 2 7
+5 7<br>
+2 4 1 2 7<br>
 
 # Sample Output:
 3
