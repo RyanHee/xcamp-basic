@@ -32,14 +32,14 @@ Number of paths
 
  
 
-Sample input 3:
+# Sample input 3:
 1 1
 
-Sample output 3:
+# Sample output 3:
 2
 
  
 
-Data range:
+# Data range:
 
 1<=n<=10, 1<=m<= 4
