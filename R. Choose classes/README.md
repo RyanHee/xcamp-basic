@@ -1,4 +1,4 @@
-# Time：1s  Memory：128M
+# Time: 1s  Memory: 128M
 
 # Description：
 School has n classes. Class i has the start time Si and the end time Ei. At any given time, student can only attend one class, and can get the benefit only after attended the whole class.<br> 
