@@ -21,9 +21,12 @@ m lines，output the answer for each inquiry.
 10<br>
 1 1<br>
 2 2<br>
+
+
 # Sample Output:
 4<br>
 4<br>
+
 
 # Sample Input:
 3 3<br>
@@ -33,6 +36,8 @@ m lines，output the answer for each inquiry.
 1 1<br>
 2 2<br>
 3 3<br>
+
+
 # Sample Output:
 8<br>
 8<br>
