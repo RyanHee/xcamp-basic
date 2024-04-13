@@ -1,4 +1,4 @@
-# Time Limit: 1s   Memory Limit: 256M
+# Time Limit: 1s   Memory Limit: 512M
  
 
 # Description
