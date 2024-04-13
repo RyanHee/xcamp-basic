@@ -1,4 +1,5 @@
-# Time limit：1s   Memory limit：512M
+# Time limit: 1s   Memory limit: 512M
+
 # Description：
 
 There are some logs in timber factory, which should be cut into pieces of the same length (there may be some remaining). The number of pieces has been decided. We want the length of those pieces to be as long as possible. Find out the maximum length (cm, positive integer).<br>
