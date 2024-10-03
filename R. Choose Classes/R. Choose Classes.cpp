@@ -22,7 +22,7 @@ int solve(int time, unordered_map<int, int> graph, int cnt) {
 
 
 int main() {
-	cout << __cplusplus << endl;
+	//cout << __cplusplus << endl;
 	int n;
 	cin >> n;
 	unordered_map<int, int> graph;

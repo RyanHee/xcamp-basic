@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\RYAN\\CS\\R. Choose Classes\\",
+  "WorkspaceRootPath": "D:\\RYAN\\CS\\xcamp-basic\\R. Choose Classes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD0B773E-4B73-4CFF-863D-A85782C45230}|R. Choose Classes.vcxproj|D:\\RYAN\\CS\\R. Choose Classes\\R. Choose Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{CD0B773E-4B73-4CFF-863D-A85782C45230}|R. Choose Classes.vcxproj|D:\\RYAN\\CS\\xcamp-basic\\R. Choose Classes\\R. Choose Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CD0B773E-4B73-4CFF-863D-A85782C45230}|R. Choose Classes.vcxproj|solutionrelative:R. Choose Classes.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "R. Choose Classes.cpp",
-              "DocumentMoniker": "D:\\RYAN\\CS\\R. Choose Classes\\R. Choose Classes.cpp",
+              "DocumentMoniker": "D:\\RYAN\\CS\\xcamp-basic\\R. Choose Classes\\R. Choose Classes.cpp",
               "RelativeDocumentMoniker": "R. Choose Classes.cpp",
-              "ToolTip": "D:\\RYAN\\CS\\R. Choose Classes\\R. Choose Classes.cpp",
+              "ToolTip": "D:\\RYAN\\CS\\xcamp-basic\\R. Choose Classes\\R. Choose Classes.cpp",
               "RelativeToolTip": "R. Choose Classes.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-20T00:43:20.93Z",
               "EditorCaption": ""
